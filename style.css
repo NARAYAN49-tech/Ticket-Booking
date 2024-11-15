@@ -1,0 +1,28 @@
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 5px solid black;
+}
+
+#Sign{
+    height: 17px;
+    width: 80px;
+    border: 1px solid black;
+    color: burlywood;
+    background-color: brown;
+    border-radius: 3px;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.form{
+    width: 750px;
+    height: auto;
+    border: 5px solid black;
+    box-shadow: 3px solid black ;
+}
+h1{
+    text-align: center;
+    text-shadow: 5px solid black;
+}
